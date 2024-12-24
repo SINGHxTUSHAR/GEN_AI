@@ -1,6 +1,8 @@
 * To create an virtaul environment : using conda cmd : "conda create -p venv python==3.12"
 * To activate the venv : "conda activate venv/"
 
-* To craete an virtaul env using python in cmd : "python -m venv folder_name"
+* To create an virtaul env using python in cmd : "python -m venv folder_name"
 * To activate : "folder_name\scripts\activate"
+
+* To run requirement.txt -> "pip install -r requirement.txt"
 
