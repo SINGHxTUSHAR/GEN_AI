@@ -1,0 +1,11 @@
+hello my name is TUSHAR SINGH,
+i am checking for the shutil module
+copying this file data to another file.
+
+
+
+
+bieee !!
+
+
+>>>>>>>>>>>>>>>>>>another file>>>>>>>>>>>>>>>>>>>>>>
